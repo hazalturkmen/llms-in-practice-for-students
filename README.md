@@ -63,7 +63,7 @@ Module 2 — Agentic AI Coding
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/llms-in-practice.git
+git clone https://github.com/your-username/llms-in-practice-for-students.git
 cd llms-in-practice
 ```
 
