@@ -1,6 +1,6 @@
 # LLMs in Practice — From Prompt to Pipeline
 
-Hands-on course materials for second-year computer engineering students. This course takes you from your first API call to building a fully autonomous NER pipeline using an AI agent — in two focused modules.
+Hands-on course materials for computer engineering students. This course takes you from your first API call to building a fully autonomous NER pipeline using an AI agent — in two focused modules.
 
 ---
 
