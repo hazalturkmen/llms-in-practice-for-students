@@ -64,7 +64,7 @@ Module 2 — Agentic AI Coding
 
 ```bash
 git clone https://github.com/hazalturkmen/llms-in-practice-for-students.git
-cd llms-in-practice
+cd llms-in-practice-for-students
 ```
 
 ### 2. Install dependencies
